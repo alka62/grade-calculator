@@ -1,0 +1,7 @@
+Input: 95 → Grade A
+Input: 85 → Grade B
+Input: 72 → Grade C
+Input: 61 → Grade D
+Input: 40 → Grade F
+Input: 120 → Invalid
+Input: -5 → Invalid
